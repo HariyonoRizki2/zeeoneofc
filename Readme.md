@@ -42,8 +42,8 @@
 
 ### Github Stats 🚀
 
-<p align="center"><a href="https://github.com/HariyonoRizki2"><img src="https://github-readme-stats.vercel.app/api?username=zeeoneofc&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/HariyonoRizki2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeoneofc&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/HariyonoRizki2"><img src="https://github-readme-stats.vercel.app/api?username=HariyonoRizki2&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/HariyonoRizki2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariyonoRizki2&theme=radical&layout=compact"></a></p> 
 
 ### Repo Stats 🔭
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=HariyonoRizki2&repo=api-zeeoneofc&theme=dark)
